@@ -1,0 +1,12 @@
+{
+  "name": "map-documentary-maker",
+  "version": "1.0.0",
+  "description": "Map-animated documentary explainers made on your own computer for $0: cited research with an independent fact-check, script, Kokoro AI narration, Whisper word timing, real Wikimedia Commons photos, Python + ffmpeg animation, thumbnail and upload pack.",
+  "author": {
+    "name": "Think with MR",
+    "url": "https://www.youtube.com/@ThinkwithMRG"
+  },
+  "homepage": "https://github.com/mrgoraya/map-documentary-maker",
+  "keywords": ["documentary", "explainer", "map animation", "video", "youtube", "kokoro", "whisper", "geopolitics", "history"],
+  "license": "MIT"
+}

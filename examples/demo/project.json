@@ -1,0 +1,15 @@
+{
+  "title": "Why the Strait of Hormuz matters (demo)",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "bbox": [14, 2, 86, 46],
+  "relief_px_per_deg": 60,
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 0.8,
+  "crossfade": 0.25,
+  "loudness": -15,
+  "sfx": true,
+  "music": null
+}

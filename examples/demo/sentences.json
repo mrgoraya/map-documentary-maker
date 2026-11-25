@@ -1,0 +1,37 @@
+[
+ {
+  "part": 1,
+  "k": 0,
+  "s": 0.0,
+  "e": 4.24,
+  "text": "The Strait of Hormuz links the Persian Gulf to the open ocean."
+ },
+ {
+  "part": 1,
+  "k": 1,
+  "s": 5.48,
+  "e": 10.4,
+  "text": "In twenty twenty-four, about twenty million barrels of oil a day passed through it."
+ },
+ {
+  "part": 1,
+  "k": 2,
+  "s": 10.62,
+  "e": 14.26,
+  "text": "That is roughly one fifth of all the oil the world used."
+ },
+ {
+  "part": 1,
+  "k": 3,
+  "s": 15.26,
+  "e": 20.96,
+  "text": "Saudi Arabia and the United Arab Emirates have pipelines that can bypass the strait."
+ },
+ {
+  "part": 1,
+  "k": 4,
+  "s": 21.12,
+  "e": 24.18,
+  "text": "But they can carry only a fraction of that oil."
+ }
+]

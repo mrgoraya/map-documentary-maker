@@ -1,0 +1,16 @@
+{
+  "name": "map-documentary-maker",
+  "owner": {
+    "name": "Think with MR",
+    "url": "https://www.youtube.com/@ThinkwithMRG"
+  },
+  "description": "Free Claude Code plugins from the Think with MR YouTube channel.",
+  "plugins": [
+    {
+      "name": "map-documentary-maker",
+      "source": "./",
+      "description": "Make map-animated documentary explainers end to end for $0: research, fact-check, script, AI voice, timing, real photos, animation, thumbnail.",
+      "category": "productivity"
+    }
+  ]
+}

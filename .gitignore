@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+# per-project generated files (examples keep only their sources)
+examples/*/data/
+examples/*/out/
+examples/*/qa/
+examples/*/assets/
+examples/*/voice/*.wav
+examples/*/voice/*_words.json

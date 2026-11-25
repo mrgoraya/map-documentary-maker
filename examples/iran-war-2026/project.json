@@ -1,0 +1,16 @@
+{
+  "title": "The Iran War Explained: How It Started and Where It Stands (2026)",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "bbox": [-12, 0, 82, 54],
+  "cos_lat": 30,
+  "relief_px_per_deg": 60,
+  "voice": "am_michael",
+  "speed": 1.0,
+  "tail": 0.6,
+  "crossfade": 0.25,
+  "loudness": -15,
+  "sfx": true,
+  "music": null
+}
